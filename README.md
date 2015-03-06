@@ -8,7 +8,7 @@
 $ git clone https://github.com/egisatoshi/concordance.git
 ```
 
-2. Aadd the following line in your `.emacs`.
+2. Add the following line in your `.emacs`.
 
 ```
 (load-file "path-to-concordance/elisp/concordance.el")
@@ -22,7 +22,7 @@ $ git clone https://github.com/egisatoshi/concordance.git
 
 <img width="100%" src="https://raw.githubusercontent.com/egisatoshi/concordance/master/images/demo.png" />
 
-The above is a demonstration that listed up all usages of the word "introduce" from the R6RS.
+The above is a demonstration that listed up all usages of the word "introduce" from R6RS.
 (I have been developing [a new programming language](https://github.com/egison/egison).
 When I am writing its manual, I refer to manuals of other languages to learn and verify the usage of a word.)
 
